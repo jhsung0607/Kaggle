@@ -21,7 +21,7 @@
 
 
 #### 4. [house_prices(Kaggle)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-- Feature Engineering: log를 이용한 수치형 변수 정규화, OrdinalEncoder
+- Feature Engineering
 - sklearn KFold 실습
 
 
@@ -34,4 +34,10 @@
 
 
 #### 6. [pima_DL(Kaggle)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
-- tensorflow 실습(정형데이터에 딥러닝 실습해보기)
+- tensorflow 실습
+
+
+#### 7. [malaria(Kaggle)](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
+- CNN 실습
+- VGG16 실습
+- matplotlib & cv2을 이용한 이미지  실습
