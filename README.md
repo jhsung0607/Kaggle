@@ -40,4 +40,8 @@
 #### 7. [malaria(Kaggle)](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
 - CNN 실습
 - VGG16 실습
-- matplotlib & cv2을 이용한 이미지  실습
+- matplotlib & cv2을 이용한 이미지 실습
+
+#### 8. [weather(Kaggle)](https://www.kaggle.com/datasets/vijaygiitk/multiclass-weather-dataset)
+- CNN 실습
+- LabelBinarizer 
