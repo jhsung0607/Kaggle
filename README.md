@@ -45,3 +45,8 @@
 #### 8. [weather(Kaggle)](https://www.kaggle.com/datasets/vijaygiitk/multiclass-weather-dataset)
 - CNN 실습
 - LabelBinarizer 
+
+#### 9. [klue(dacon)](https://dacon.io/competitions/official/235747)
+- 정규표현식, 불용어 제거를 이용한 자연어 처리
+- 워드클라우드 실습
+- TF-IDF 실습
