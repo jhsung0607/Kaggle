@@ -50,3 +50,9 @@
 - 정규표현식, 불용어 제거를 이용한 자연어 처리
 - 워드클라우드 실습
 - TF-IDF 실습
+
+#### 10. [online_retail(Kaggle)](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+- EDA
+- ARPU / ARPPU 실습
+- MAU(Monthly Active User), 코호트분석 실습
+- RFM 실습
