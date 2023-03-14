@@ -56,3 +56,7 @@
 - ARPU / ARPPU 실습
 - MAU(Monthly Active User), 코호트분석 실습
 - RFM 실습
+
+#### 11. [card_overdue(dacon)](https://dacon.io/competitions/official/235713)
+- Feature Engineering
+- catboost CatBoostClassifier 실습
