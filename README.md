@@ -60,3 +60,7 @@
 #### 11. [card_overdue(dacon)](https://dacon.io/competitions/official/235713)
 - Feature Engineering
 - catboost CatBoostClassifier 실습
+
+#### 12. [TMDB_box_office_revenue_prediction(Kaggle)](https://www.kaggle.com/competitions/tmdb-box-office-prediction)
+- Feature Engineering
+- catboost CatBoostRegressor 실습
