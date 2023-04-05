@@ -64,3 +64,10 @@
 #### 12. [TMDB_box_office_revenue_prediction(Kaggle)](https://www.kaggle.com/competitions/tmdb-box-office-prediction)
 - Feature Engineering
 - catboost CatBoostRegressor 실습
+
+#### 13. [psychometrics(dacon)](https://dacon.io/competitions/official/235647/overview/description)
+- sklearn.preprocessing MinMaxScaler 실습
+- tensorflow 실습
+
+#### 14. [FER2013(Kaggle)](https://www.kaggle.com/datasets/msambare/fer2013)
+- VGG16 실습
