@@ -71,3 +71,7 @@
 
 #### 14. [FER2013(Kaggle)](https://www.kaggle.com/datasets/msambare/fer2013)
 - VGG16 실습
+
+#### 15. [cancel_call(dacon)](https://www.dacon.io/competitions/official/236075/overview/description)
+- Feature Engineering
+- autogluon 실습
