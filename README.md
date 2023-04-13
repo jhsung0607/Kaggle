@@ -8,11 +8,14 @@
 #### 1. [pima(Kaggle)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - sklearn DecisionTree 실습
 - GridSearchCV & RandomizedSearchCV 실습
+- [devlog - [머신러닝] DecisionTree](https://blog.naver.com/zoxxny/222935453631)
+- [devlog - [머신러닝] 하이퍼파라미터 튜닝(hyper parameter tuning)](https://blog.naver.com/zoxxny/222918739798)
 
 
 #### 2. [titanic(Kaggle)](https://www.kaggle.com/competitions/titanic)
 - sklearn RandomForest 실습
 - binary encoding, onehot encoding
+- [devlog - [머신러닝] kaggle titanic dataset (파이썬, EDA, DecisionTree, Classification)](https://blog.naver.com/zoxxny/222931329879)
 
 
 #### 3. [bike_sharing_demand(Kaggle)](https://www.kaggle.com/competitions/titanic)
@@ -60,6 +63,7 @@
 #### 11. [card_overdue(dacon)](https://dacon.io/competitions/official/235713)
 - Feature Engineering
 - catboost CatBoostClassifier 실습
+- [devlog - [머신러닝] 평가지표 logloss](https://blog.naver.com/zoxxny/222925225901)
 
 #### 12. [TMDB_box_office_revenue_prediction(Kaggle)](https://www.kaggle.com/competitions/tmdb-box-office-prediction)
 - Feature Engineering
@@ -68,6 +72,7 @@
 #### 13. [psychometrics(dacon)](https://dacon.io/competitions/official/235647/overview/description)
 - sklearn.preprocessing MinMaxScaler 실습
 - tensorflow 실습
+- [devlog - [머신러닝] 평가지표 AUC](https://blog.naver.com/zoxxny/223070328558)
 
 #### 14. [FER2013(Kaggle)](https://www.kaggle.com/datasets/msambare/fer2013)
 - VGG16 실습
@@ -75,3 +80,4 @@
 #### 15. [cancel_call(dacon)](https://www.dacon.io/competitions/official/236075/overview/description)
 - Feature Engineering
 - autogluon 실습
+- [devlog - [머신러닝] autogluon](https://blog.naver.com/zoxxny/223073722614)
