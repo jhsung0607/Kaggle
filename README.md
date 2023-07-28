@@ -81,3 +81,8 @@
 - Feature Engineering
 - autogluon 실습
 - [devlog - [머신러닝] autogluon](https://blog.naver.com/zoxxny/223073722614)
+
+#### 16. 쇼핑몰_판매량_데이터
+- [Eland - 채용과제](https://blog.naver.com/zoxxny/223167728716)
+- EDA
+- TF-IDF 실습
