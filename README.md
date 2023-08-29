@@ -83,6 +83,11 @@
 - [devlog - [머신러닝] autogluon](https://blog.naver.com/zoxxny/223073722614)
 
 #### 16. 쇼핑몰_판매량_데이터
-- [Eland - 채용과제](https://blog.naver.com/zoxxny/223167728716)
+- [devlog - Eland 채용과제](https://blog.naver.com/zoxxny/223167728716)
 - EDA
 - TF-IDF 실습
+
+#### 16. [movie-contents-based(Kaggle)](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
+- content-based 추천 시스템
+- TF-IDF 실습
+- 유사도 실습
