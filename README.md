@@ -5,7 +5,7 @@
 
 <br>
 
-#### 1. [pima(Kaggle)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+#### 1. [pima](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - sklearn DecisionTree 실습
 - GridSearchCV & RandomizedSearchCV 실습
 - [devlog - [머신러닝] DecisionTree](https://blog.naver.com/zoxxny/222935453631)
@@ -40,12 +40,12 @@
 - tensorflow 실습
 
 
-#### 7. [malaria(Kaggle)](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
+#### 7. [malaria](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets)
 - CNN 실습
 - VGG16 실습
 - matplotlib & cv2을 이용한 이미지 실습
 
-#### 8. [weather(Kaggle)](https://www.kaggle.com/datasets/vijaygiitk/multiclass-weather-dataset)
+#### 8. [weather](https://www.kaggle.com/datasets/vijaygiitk/multiclass-weather-dataset)
 - CNN 실습
 - LabelBinarizer 
 
@@ -54,7 +54,7 @@
 - 워드클라우드 실습
 - TF-IDF 실습
 
-#### 10. [online_retail(Kaggle)](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+#### 10. [online_retail](https://archive.ics.uci.edu/dataset/352/online+retail)
 - EDA
 - ARPU / ARPPU 실습
 - MAU(Monthly Active User), 코호트분석 실습
@@ -74,7 +74,7 @@
 - tensorflow 실습
 - [devlog - [머신러닝] 평가지표 AUC](https://blog.naver.com/zoxxny/223070328558)
 
-#### 14. [FER2013(Kaggle)](https://www.kaggle.com/datasets/msambare/fer2013)
+#### 14. [FER2013](https://www.kaggle.com/datasets/msambare/fer2013)
 - VGG16 실습
 
 #### 15. [cancel_call(dacon)](https://www.dacon.io/competitions/official/236075/overview/description)
@@ -87,7 +87,13 @@
 - EDA
 - TF-IDF 실습
 
-#### 16. [movie-contents-based(Kaggle)](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
-- content-based 추천 시스템
+#### 17. [movie-contents-based](https://grouplens.org/datasets/movielens/latest/)
+- credits.csv 사용
+- content-based filtering 추천 시스템
 - TF-IDF 실습
-- 유사도 실습
+- [devlog - [추천시스템] 유사도(코사인유사도, 유클리디안유사도, 피어슨유사도, 자카드유사도)](https://blog.naver.com/zoxxny/223197155971)
+
+#### 18. [movie_memory_based(Kaggle)](https://grouplens.org/datasets/movielens/latest/)
+- movies.csv, ratings.csv 사용
+- collaborative filtering의 memory-based 추천 시스템
+- 사용자 기반/아이템 기반 최근접 이웃 협업 필터링
